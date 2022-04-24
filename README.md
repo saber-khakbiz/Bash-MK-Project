@@ -6,6 +6,17 @@
 
 ![img](https://github.com/saber-khakbiz/Bash-MK-Project/blob/master/img_src/bash_logo.png)
 
+# :computer: Instructions:
+
+--------------------------------------------------
+:loop:
+move `app.sh` file to directory that you want to order it .
+
+run this --->> `./app.sh`
+
+
+**************************************************
+
 
 
 
